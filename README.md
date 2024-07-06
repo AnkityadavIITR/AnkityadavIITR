@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Hii there, I'm Ankit a full stack MERN and Nextjs developer, experience with Nextjs, React, Nodejs, express, docker etc. Currently exploring devops learning cloud services like azure and aws working on services like azure kubernetes, azure container registry etc.</p>
+<p align="left">Hii there, I'm Ankit a full stack MERN and Nextjs developer, experience with Nextjs, React, Nodejs, express, docker etc. Currently exploring devops learning cloud services like azure and aws working on services like azure kubernetes, azure container apps etc.</p>
 
 ###
 
