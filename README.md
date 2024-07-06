@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Hii there, I'm Ankit a full stack MERN and Nextjs developer, experience with Nextjs, React etc. Currently exploring devops learning cloud services like azure and aws</p>
+<p align="left">Hii there, I'm Ankit a full stack MERN and Nextjs developer, experience with Nextjs, React and MERN framework etc. Currently exploring devops learning cloud services like azure and aws</p>
 
 ###
 
