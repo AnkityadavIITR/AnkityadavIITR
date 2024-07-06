@@ -24,14 +24,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
 
-<p align="left">Hii there, I'm Ankit a full stack MERN and Nextjs developer, experience with Nextjs, React, Nodejs, express, docker etc. Currently exploring devops learning cloud services like azure and aws working on services like azure kubernetes, azure container apps etc.</p>
+<p align="left">Hii there, I'm Ankit a full stack MERN and Nextjs developer, experience with Nextjs, React etc. Currently exploring devops learning cloud services like azure and aws</p>
 
 ###
 
+<img src="https://raw.githubusercontent.com/AnkityadavIITR/AnkityadavIITR/output/snake.svg" alt="Snake animation" />
 
 ###
 
