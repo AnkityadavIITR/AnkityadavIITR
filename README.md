@@ -26,7 +26,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AnkityadavIITR/AnkityadavIITR/output/snake.svg" alt="Snake animation" />
 
 ###
 
