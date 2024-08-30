@@ -62,7 +62,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnkityadavIITR.AnkityadavIITR&left_color=aliceblue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnkityadavIITR.AnkityadavIITR&"  />
 </div>
 
 ###
