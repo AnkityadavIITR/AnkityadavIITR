@@ -27,6 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
@@ -35,6 +36,7 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/AnkityadavIITR/AnkityadavIITR/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -53,6 +55,14 @@
   <a href="yadav.ankit20062000@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnkityadavIITR.AnkityadavIITR&left_color=aliceblue"  />
 </div>
 
 ###
