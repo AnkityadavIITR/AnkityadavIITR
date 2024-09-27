@@ -36,7 +36,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AnkityadavIITR/AnkityadavIITR/output/snake.svg" alt="Snake animation" />
+[![An image of @ankityadaviitr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankityadaviitr)](https://holopin.io/@ankityadaviitr)
 
 ###
 
