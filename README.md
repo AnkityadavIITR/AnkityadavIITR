@@ -34,7 +34,7 @@
 
 <p align="left">Hii there, I'm Ankit a full stack MERN and Nextjs developer, experience with Nextjs, React etc. Currently exploring devops learning cloud services like azure and aws</p>
 
-###
+### Open src contributions
 
 [![An image of @ankityadaviitr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankityadaviitr)](https://holopin.io/@ankityadaviitr)
 
