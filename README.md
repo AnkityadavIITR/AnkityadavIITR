@@ -34,11 +34,7 @@
 
 <p align="left">Hii there, I'm Ankit a full stack MERN and Nextjs developer, experience with Nextjs, React etc. Currently exploring devops learning cloud services like azure and aws</p>
 
-### Open src contributions
 
-[![An image of @ankityadaviitr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankityadaviitr)](https://holopin.io/@ankityadaviitr)
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnkityadavIITR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
