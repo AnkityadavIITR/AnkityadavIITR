@@ -35,7 +35,7 @@
 <p align="left">Hii there, I'm Ankit a full stack MERN and Nextjs developer, experience with Nextjs, React etc. Currently exploring devops learning cloud services like azure and aws</p>
 
 ### Open-src 
-<div align="left">
+<div align="center">
   
 [![ToolJet Template Trailblazer](https://logo-badges.tooljet.com/Template-Template-Badge.svg)](https://github.com/orgs/ToolJet/projects/16/views/2)
 
